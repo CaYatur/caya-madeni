@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "caya_madeni:blocks/unnamed",
+    "up": "caya_madeni:blocks/unnamed",
+    "north": "caya_madeni:blocks/unnamed",
+    "east": "caya_madeni:blocks/unnamed",
+    "south": "caya_madeni:blocks/unnamed",
+    "west": "caya_madeni:blocks/unnamed",
+    "particle": "caya_madeni:blocks/unnamed"
+  }
+}

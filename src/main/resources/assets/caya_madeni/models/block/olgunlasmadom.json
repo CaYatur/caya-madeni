@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "caya_madeni:blocks/domw_olgunlasmami",
+    "particle": "caya_madeni:blocks/domw_olgunlasmami"
+  }
+}

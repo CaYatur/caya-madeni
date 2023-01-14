@@ -1,0 +1,26 @@
+{
+  "group": "caya_madeni",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "caya_madeni:guc"
+    },
+    "2": {
+      "item": "caya_madeni:guc"
+    },
+    "3": {
+      "item": "caya_madeni:guc"
+    },
+    "5": {
+      "item": "caya_madeni:guc"
+    }
+  },
+  "result": {
+    "item": "caya_madeni:cok_guc_armor_boots",
+    "count": 1
+  }
+}

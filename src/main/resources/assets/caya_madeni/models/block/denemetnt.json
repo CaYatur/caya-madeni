@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "caya_madeni:blocks/den_ore_block",
+    "up": "caya_madeni:blocks/den_ore_block",
+    "north": "caya_madeni:blocks/den_ore_block",
+    "east": "caya_madeni:blocks/den_ore_block",
+    "south": "caya_madeni:blocks/den_ore_block",
+    "west": "caya_madeni:blocks/den_ore_block",
+    "particle": "caya_madeni:blocks/den_ore_block"
+  }
+}

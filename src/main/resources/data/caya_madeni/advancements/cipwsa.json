@@ -1,0 +1,45 @@
+{
+  "display": {
+    "icon": {
+      "item": "caya_madeni:cip"
+    },
+    "title": {
+      "translate": "advancements.cipwsa.title"
+    },
+    "description": {
+      "translate": "advancements.cipwsa.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "cipwsa": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "caya_madeni:cip",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1,
+    "recipes": [
+      "caya_madeni:nokcraft",
+      "caya_madeni:insinlancragt",
+      "caya_madeni:mermiwa",
+      "caya_madeni:sliea",
+      "caya_madeni:roket",
+      "caya_madeni:motortarif"
+    ]
+  },
+  "parent": "caya_madeni:oksitlenmis_gucoksitingucu"
+}

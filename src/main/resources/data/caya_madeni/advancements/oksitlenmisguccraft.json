@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "caya_madeni:oksitlenmis_gucdunyasi"
+    },
+    "title": {
+      "translate": "advancements.oksitlenmisguccraft.title"
+    },
+    "description": {
+      "translate": "advancements.oksitlenmisguccraft.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "oksitlenmisguccraft": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "biome": "caya_madeni:oksitlenmis_gucbiom"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 4
+  },
+  "parent": "caya_madeni:oksitlenmis_gucoksitingucu"
+}

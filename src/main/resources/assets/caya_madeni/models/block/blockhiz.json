@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "caya_madeni:blocks/biokjhi",
+    "up": "caya_madeni:blocks/biokjhi",
+    "north": "caya_madeni:blocks/biokjhi",
+    "east": "caya_madeni:blocks/biokjhi",
+    "south": "caya_madeni:blocks/biokjhi",
+    "west": "caya_madeni:blocks/biokjhi",
+    "particle": "caya_madeni:blocks/biokjhi"
+  }
+}

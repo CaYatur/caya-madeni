@@ -1,0 +1,6 @@
+{
+  "parent": "block/template_fence_gate_wall_open",
+  "textures": {
+    "texture": "caya_madeni:blocks/toksit_planks"
+  }
+}

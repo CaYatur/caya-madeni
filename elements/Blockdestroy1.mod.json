@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Blockdestroye23"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Blockdestroye23"
+      },
+      {
+        "value": "CUSTOM:OksitlenmisGuc"
+      },
+      {
+        "value": "CUSTOM:Blockdestroye23"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Blockdestroye23"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Kiriciaw"
+    },
+    "name": "blockdestroy_1",
+    "namespace": "mod"
+  }
+}

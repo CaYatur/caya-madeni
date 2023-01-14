@@ -1,0 +1,20 @@
+{
+  "group": "caya_madeni",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "caya_madeni:toksit_planks"
+    },
+    "1": {
+      "item": "caya_madeni:toksit_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:stick",
+    "count": 4
+  }
+}

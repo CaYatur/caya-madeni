@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "caya_madeni:blocks/toksit_planks",
+    "particle": "caya_madeni:blocks/toksit_planks"
+  }
+}

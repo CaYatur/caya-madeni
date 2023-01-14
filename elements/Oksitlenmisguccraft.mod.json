@@ -1,0 +1,25 @@
+{
+  "_fv": 24,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "Oksitlenmiþ Güç Biyom",
+    "achievementDescription": "Yok Artýk!",
+    "achievementIcon": {
+      "value": "CUSTOM:OksitlenmisGucdunyasi"
+    },
+    "background": "Default",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": false,
+    "rewardLoot": [],
+    "rewardRecipes": [],
+    "rewardFunction": "No function",
+    "rewardXP": 4,
+    "achievementType": "task",
+    "parent": {
+      "value": "CUSTOM:OksitlenmisGucoksitingucu"
+    },
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"biome_entered\" x=\"67\" y=\"167\"><field name=\"biome\">CUSTOM:OksitlenmisGucbiom</field><next><block type=\"advancement_trigger\" deletable=\"false\"></block></next></block></xml>"
+  }
+}

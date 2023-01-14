@@ -1,0 +1,44 @@
+{
+  "display": {
+    "icon": {
+      "item": "caya_madeni:domates"
+    },
+    "title": {
+      "translate": "advancements.kse.title"
+    },
+    "description": {
+      "translate": "advancements.kse.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "kse": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "caya_madeni:domates",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1,
+    "recipes": [
+      "caya_madeni:kese",
+      "caya_madeni:kizrattta",
+      "caya_madeni:sandwichw",
+      "caya_madeni:peyew",
+      "caya_madeni:ciktaf"
+    ]
+  },
+  "parent": "caya_madeni:oksitlenmis_gucoksitingucu"
+}

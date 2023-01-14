@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "caya_madeni:blocks/cobblestone",
+    "up": "caya_madeni:blocks/cobblestone",
+    "north": "caya_madeni:blocks/cobblestone",
+    "east": "caya_madeni:blocks/cobblestone",
+    "south": "caya_madeni:blocks/cobblestone",
+    "west": "caya_madeni:blocks/cobblestone",
+    "particle": "caya_madeni:blocks/cobblestone"
+  }
+}

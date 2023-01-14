@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ToksitPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ToksitPlanks"
+      },
+      {
+        "value": "CUSTOM:ToksitPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ToksitPlanks"
+      },
+      {
+        "value": "CUSTOM:ToksitPlanks"
+      },
+      {
+        "value": "CUSTOM:ToksitPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ToksitStairs"
+    },
+    "name": "toksit_stairs_recipe",
+    "namespace": "mod"
+  }
+}

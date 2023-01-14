@@ -1,0 +1,37 @@
+{
+  "_fv": 24,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 0,
+    "texture": "silah",
+    "customModelName": "Normal",
+    "name": "Silah",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:SILAH"
+    },
+    "stackSize": 16,
+    "ammoItem": {
+      "value": "CUSTOM:Mermi"
+    },
+    "shootConstantly": true,
+    "usageCount": 2500,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": false,
+    "animation": "none",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 4.0,
+    "bulletDamage": 4.0,
+    "bulletKnockback": 5,
+    "bulletParticles": false,
+    "bulletIgnitesFire": true,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Mermi"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": ""
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "caya_madeni:blocks/cokews_kiz",
+    "up": "caya_madeni:blocks/cokews_kiz",
+    "north": "caya_madeni:blocks/on_kiz",
+    "east": "caya_madeni:blocks/cokews_kiz",
+    "south": "caya_madeni:blocks/cokews_kiz",
+    "west": "caya_madeni:blocks/cokews_kiz",
+    "particle": "caya_madeni:blocks/cokews_kiz"
+  }
+}

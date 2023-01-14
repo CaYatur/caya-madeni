@@ -1,0 +1,2501 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "OksitlenmisGucKilic",
+      "type": "tool",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oksitlenmis_guc_kilic"
+    },
+    {
+      "name": "OksitlenmisGuckazma",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oksitlenmis_guckazma"
+    },
+    {
+      "name": "OksitlenmisGucblok",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oksitlenmis_gucblok"
+    },
+    {
+      "name": "OksitlenmisGuccehver",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oksitlenmis_guccehver"
+    },
+    {
+      "name": "OksitlenmisGuc",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oksitlenmis_guc"
+    },
+    {
+      "name": "OksitlenmisGukiliccraft",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oksitlenmis_gukiliccraft"
+    },
+    {
+      "name": "OksitlenmisGukazmacreaft",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oksitlenmis_gukazmacreaft"
+    },
+    {
+      "name": "Oksitlenmisgucblock",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oksitlenmisgucblock"
+    },
+    {
+      "name": "OksitlenmisGublockcev",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oksitlenmis_gublockcev"
+    },
+    {
+      "name": "OksitlenmisGuccanavar",
+      "type": "livingentity",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oksitlenmis_guccanavar"
+    },
+    {
+      "name": "OksitlenmisGucbiom",
+      "type": "biome",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oksitlenmis_gucbiom"
+    },
+    {
+      "name": "OksitlenmisGucdunyasi",
+      "type": "dimension",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oksitlenmis_gucdunyasi",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "OksitlenmisGucportalacici",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oksitlenmis_gucportalacici"
+    },
+    {
+      "name": "Ekran",
+      "type": "gui",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ekran"
+    },
+    {
+      "name": "Oksitlenmisgucsignagi",
+      "type": "structure",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oksitlenmisgucsignagi"
+    },
+    {
+      "name": "Sirtcantasi",
+      "type": "item",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sirtcantasi"
+    },
+    {
+      "name": "Sirtcanta",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sirtcanta"
+    },
+    {
+      "name": "CaYaMod",
+      "type": "tab",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ca_ya_mod"
+    },
+    {
+      "name": "OksitlenmisGucIksirBuyuBasladiginda",
+      "type": "procedure",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oksitlenmis_guc_iksir_buyu_basladiginda",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "OksitlenmisGucYiyecek",
+      "type": "food",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oksitlenmis_guc_yiyecek"
+    },
+    {
+      "name": "OksitlenmisGucoksitingucu",
+      "type": "achievement",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oksitlenmis_gucoksitingucu"
+    },
+    {
+      "name": "Oksitlenmisguccraft",
+      "type": "achievement",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oksitlenmisguccraft"
+    },
+    {
+      "name": "OksitlenmisGucbloks",
+      "type": "achievement",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oksitlenmis_gucbloks"
+    },
+    {
+      "name": "OksitlenmisGucikisirgelisim",
+      "type": "achievement",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oksitlenmis_gucikisirgelisim"
+    },
+    {
+      "name": "Oksitlenmisiksir",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oksitlenmisiksir"
+    },
+    {
+      "name": "Oksitlenmiscevhercraft",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oksitlenmiscevhercraft"
+    },
+    {
+      "name": "Oksitlenmisguccevheriolurmu",
+      "type": "achievement",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oksitlenmisguccevheriolurmu"
+    },
+    {
+      "name": "OksitlenmisGucsu",
+      "type": "fluid",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oksitlenmis_gucsu",
+      "metadata": {
+        "gb": true
+      }
+    },
+    {
+      "name": "Oksitlenmissu",
+      "type": "achievement",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oksitlenmissu"
+    },
+    {
+      "name": "Cayamodd",
+      "type": "tab",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cayamodd"
+    },
+    {
+      "name": "OksitlenmisGuczirh",
+      "type": "armor",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oksitlenmis_guczirh",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "OksitlenmisGuczirhBodyTickEvent",
+      "type": "procedure",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oksitlenmis_guczirh_body_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Gogus",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gogus"
+    },
+    {
+      "name": "Bot",
+      "type": "recipe",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bot"
+    },
+    {
+      "name": "Pant",
+      "type": "recipe",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pant"
+    },
+    {
+      "name": "Kas",
+      "type": "recipe",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kas"
+    },
+    {
+      "name": "Zihrtr",
+      "type": "achievement",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zihrtr"
+    },
+    {
+      "name": "OksitlenmisGucYemek",
+      "type": "food",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oksitlenmis_guc_yemek"
+    },
+    {
+      "name": "OksitlenmisGucyiye",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oksitlenmis_gucyiye"
+    },
+    {
+      "name": "Kir",
+      "type": "gui",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kir"
+    },
+    {
+      "name": "Blockdestroye23",
+      "type": "item",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blockdestroye_23"
+    },
+    {
+      "name": "Blockdestroy1",
+      "type": "recipe",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blockdestroy_1"
+    },
+    {
+      "name": "OksitlenmisGucKiekirici",
+      "type": "recipe",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oksitlenmis_guc_kiekirici"
+    },
+    {
+      "name": "Oksitlenmiskircraftg",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oksitlenmiskircraftg"
+    },
+    {
+      "name": "OksitlenmisGuccraftginkiryap",
+      "type": "recipe",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oksitlenmis_guccraftginkiryap"
+    },
+    {
+      "name": "Oksitlenmiskir",
+      "type": "achievement",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oksitlenmiskir"
+    },
+    {
+      "name": "Guc",
+      "type": "item",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "guc"
+    },
+    {
+      "name": "Kirmas",
+      "type": "procedure",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kirmas",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "OksitlenmiskircraftgBlogaSagTiklandiginda",
+      "type": "procedure",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oksitlenmiskircraftg_bloga_sag_tiklandiginda",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "OksitlenmiskircraftgUpdateTick",
+      "type": "procedure",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oksitlenmiskircraftg_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "OksitlenmisGucYemekYiyecekYendiginde",
+      "type": "procedure",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oksitlenmis_guc_yemek_yiyecek_yendiginde",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Kiriciaw",
+      "type": "item",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kiriciaw"
+    },
+    {
+      "name": "Cokguce",
+      "type": "gui",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cokguce"
+    },
+    {
+      "name": "CokgucEsyaUretildigindeeritildiginde",
+      "type": "procedure",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cokguc_esya_uretildigindeeritildiginde",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Vokgucw",
+      "type": "recipe",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vokgucw"
+    },
+    {
+      "name": "Guccub",
+      "type": "item",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "guccub"
+    },
+    {
+      "name": "Gucblock",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gucblock"
+    },
+    {
+      "name": "Gucblockyaap",
+      "type": "recipe",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gucblockyaap"
+    },
+    {
+      "name": "Guccubukyaop",
+      "type": "recipe",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "guccubukyaop"
+    },
+    {
+      "name": "Cokguced",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cokguced"
+    },
+    {
+      "name": "CokgucedHavayaSagTiklandiginda",
+      "type": "procedure",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cokguced_havaya_sag_tiklandiginda",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "Guce",
+      "type": "achievement",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "guce"
+    },
+    {
+      "name": "Çok_GüçArmor",
+      "type": "armor",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cok_guc_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Çok_GüçArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cok_guc_armor_helmet_recipe"
+    },
+    {
+      "name": "Çok_GüçArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cok_guc_armor_body_recipe"
+    },
+    {
+      "name": "Çok_GüçArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cok_guc_armor_leggings_recipe"
+    },
+    {
+      "name": "Çok_GüçArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cok_guc_armor_boots_recipe"
+    },
+    {
+      "name": "Çok_GüçPickaxe",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cok_guc_pickaxe"
+    },
+    {
+      "name": "Çok_GüçAxe",
+      "type": "tool",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cok_guc_axe"
+    },
+    {
+      "name": "Çok_GüçSword",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cok_guc_sword"
+    },
+    {
+      "name": "Çok_GüçShovel",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cok_guc_shovel"
+    },
+    {
+      "name": "Çok_GüçHoe",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cok_guc_hoe"
+    },
+    {
+      "name": "Çok_GüçPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cok_guc_pickaxe_recipe"
+    },
+    {
+      "name": "Çok_GüçAxeRecipe",
+      "type": "recipe",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cok_guc_axe_recipe"
+    },
+    {
+      "name": "Çok_GüçSwordRecipe",
+      "type": "recipe",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cok_guc_sword_recipe"
+    },
+    {
+      "name": "Çok_GüçShovelRecipe",
+      "type": "recipe",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cok_guc_shovel_recipe"
+    },
+    {
+      "name": "Çok_GüçHoeRecipe",
+      "type": "recipe",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cok_guc_hoe_recipe"
+    },
+    {
+      "name": "CokGucArmorGoguslukTakiliyken",
+      "type": "procedure",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cok_guc_armor_gogusluk_takiliyken",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Bilgisayar",
+      "type": "gui",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bilgisayar"
+    },
+    {
+      "name": "Laptop",
+      "type": "block",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "laptop"
+    },
+    {
+      "name": "LaptopBlogaSagTiklandiginda",
+      "type": "procedure",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "laptop_bloga_sag_tiklandiginda",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Cip",
+      "type": "item",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cip"
+    },
+    {
+      "name": "Cipcraft",
+      "type": "recipe",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cipcraft"
+    },
+    {
+      "name": "Robo",
+      "type": "gui",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "robo"
+    },
+    {
+      "name": "EwCanliyaSagTiklandiginda",
+      "type": "procedure",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ew_canliya_sag_tiklandiginda",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DenemetntBlogaSagTiklandiginda",
+      "type": "procedure",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "denemetnt_bloga_sag_tiklandiginda",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Denemetnt",
+      "type": "block",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "denemetnt"
+    },
+    {
+      "name": "Noktakayitedici",
+      "type": "item",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "noktakayitedici"
+    },
+    {
+      "name": "NoktakayitediciHavayaSagTiklandiginda",
+      "type": "procedure",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "noktakayitedici_havaya_sag_tiklandiginda",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Isinlayci",
+      "type": "gui",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "isinlayci"
+    },
+    {
+      "name": "Isinlayici",
+      "type": "procedure",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "isinlayici",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Isinlayicis",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "isinlayicis"
+    },
+    {
+      "name": "Nokcraft",
+      "type": "recipe",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nokcraft"
+    },
+    {
+      "name": "Cipwsa",
+      "type": "achievement",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cipwsa"
+    },
+    {
+      "name": "Insinlancragt",
+      "type": "recipe",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "insinlancragt"
+    },
+    {
+      "name": "Gizlielmas",
+      "type": "recipe",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gizlielmas"
+    },
+    {
+      "name": "Gizloksit",
+      "type": "recipe",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gizloksit"
+    },
+    {
+      "name": "DenemekazmaBlokAletleKirildiginda",
+      "type": "procedure",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "denemekazma_blok_aletle_kirildiginda",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Denemekazma",
+      "type": "tool",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "denemekazma"
+    },
+    {
+      "name": "Hiz",
+      "type": "item",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hiz"
+    },
+    {
+      "name": "Hiza",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hiza"
+    },
+    {
+      "name": "KHizaz",
+      "type": "recipe",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "k_hizaz"
+    },
+    {
+      "name": "Blockhiz",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blockhiz"
+    },
+    {
+      "name": "Blockhixz",
+      "type": "recipe",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blockhixz"
+    },
+    {
+      "name": "Cipg",
+      "type": "achievement",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cipg"
+    },
+    {
+      "name": "Mermi",
+      "type": "item",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mermi"
+    },
+    {
+      "name": "SILAHw",
+      "type": "rangeditem",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sila_hw"
+    },
+    {
+      "name": "SILAH",
+      "type": "tab",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silah"
+    },
+    {
+      "name": "Mermiwa",
+      "type": "recipe",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mermiwa"
+    },
+    {
+      "name": "Sliea",
+      "type": "recipe",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sliea"
+    },
+    {
+      "name": "Suteaw",
+      "type": "item",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "suteaw"
+    },
+    {
+      "name": "Yiyicekurunu",
+      "type": "tab",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yiyicekurunu"
+    },
+    {
+      "name": "Domates",
+      "type": "food",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "domates"
+    },
+    {
+      "name": "Domatessed",
+      "type": "plant",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "domatessed"
+    },
+    {
+      "name": "Olgunlasmadom",
+      "type": "plant",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "olgunlasmadom"
+    },
+    {
+      "name": "Kizarticissd",
+      "type": "procedure",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kizarticissd",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Kizartws",
+      "type": "gui",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kizartws"
+    },
+    {
+      "name": "Kizartici",
+      "type": "block",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kizartici"
+    },
+    {
+      "name": "Paketttt",
+      "type": "gui",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "paketttt"
+    },
+    {
+      "name": "Pakete",
+      "type": "item",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pakete"
+    },
+    {
+      "name": "Kese",
+      "type": "recipe",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kese"
+    },
+    {
+      "name": "Kizrattta",
+      "type": "recipe",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kizrattta"
+    },
+    {
+      "name": "Kse",
+      "type": "achievement",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kse"
+    },
+    {
+      "name": "Kizartwsas",
+      "type": "procedure",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kizartwsas",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "KizarmisPatates",
+      "type": "food",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kizarmis_patates"
+    },
+    {
+      "name": "Peynir",
+      "type": "food",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "peynir"
+    },
+    {
+      "name": "Peyew",
+      "type": "recipe",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "peyew"
+    },
+    {
+      "name": "Sandwich",
+      "type": "food",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sandwich"
+    },
+    {
+      "name": "Sandwichw",
+      "type": "recipe",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sandwichw"
+    },
+    {
+      "name": "CikolataYiyecekYendiginde",
+      "type": "procedure",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cikolata_yiyecek_yendiginde",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Cikolata",
+      "type": "food",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cikolata"
+    },
+    {
+      "name": "Ciktaf",
+      "type": "recipe",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ciktaf"
+    },
+    {
+      "name": "Listemuzuk",
+      "type": "gui",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "listemuzuk"
+    },
+    {
+      "name": "Cal1",
+      "type": "procedure",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cal_1",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Muzilk",
+      "type": "armor",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "muzilk",
+      "metadata": {
+        "eh": true,
+        "el": false,
+        "eb": false,
+        "ec": false
+      }
+    },
+    {
+      "name": "Muzikwsd",
+      "type": "keybind",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "muzikwsd"
+    },
+    {
+      "name": "MuzikwsdTusunaBastiginizda",
+      "type": "procedure",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "muzikwsd_tusuna_bastiginizda",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Kulakliktarif",
+      "type": "recipe",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kulakliktarif"
+    },
+    {
+      "name": "Sahtecim",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sahtecim"
+    },
+    {
+      "name": "Sahtekiriktas",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sahtekiriktas"
+    },
+    {
+      "name": "Sahtetas",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sahtetas"
+    },
+    {
+      "name": "Sahteciwe",
+      "type": "recipe",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sahteciwe"
+    },
+    {
+      "name": "Sahtekir",
+      "type": "recipe",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sahtekir"
+    },
+    {
+      "name": "Sahtetass",
+      "type": "recipe",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sahtetass"
+    },
+    {
+      "name": "DenemeKomutCalistirildiginda",
+      "type": "procedure",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deneme_komut_calistirildiginda",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "Deneme",
+      "type": "command",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deneme"
+    },
+    {
+      "name": "LoceKomutCalistirildiginda",
+      "type": "procedure",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "loce_komut_calistirildiginda",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Loce",
+      "type": "command",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "loce"
+    },
+    {
+      "name": "RoketMenzilliSilahKullanildiginda",
+      "type": "procedure",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "roket_menzilli_silah_kullanildiginda",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Roket",
+      "type": "rangeditem",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "roket"
+    },
+    {
+      "name": "RoketMermiBirBlogaCarpdiginda",
+      "type": "procedure",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "roket_mermi_bir_bloga_carpdiginda",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "RoketMermiBirOyuncuyaCarpdiginda",
+      "type": "procedure",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "roket_mermi_bir_oyuncuya_carpdiginda",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Rokettw",
+      "type": "recipe",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rokettw"
+    },
+    {
+      "name": "RoketMenzilliSilahKullanildigindat",
+      "type": "procedure",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "roket_menzilli_silah_kullanildigindat",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SahteelmasBlokOyuncuTarafindanKirildiginda",
+      "type": "procedure",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sahteelmas_blok_oyuncu_tarafindan_kirildiginda",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sahteelmas",
+      "type": "block",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sahteelmas"
+    },
+    {
+      "name": "Shat",
+      "type": "recipe",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shat"
+    },
+    {
+      "name": "OksitlenmisGuccanavarCanliOldugunde",
+      "type": "procedure",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oksitlenmis_guccanavar_canli_oldugunde",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Boss",
+      "type": "livingentity",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "boss"
+    },
+    {
+      "name": "Bosssss",
+      "type": "structure",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bosssss"
+    },
+    {
+      "name": "BosssssOnStructureInstanceGenerated",
+      "type": "procedure",
+      "sortid": 174,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bosssss_on_structure_instance_generated",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Osswloccayabasss",
+      "type": "command",
+      "sortid": 175,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "osswloccayabasss"
+    },
+    {
+      "name": "OsswloccayabasssKomutCalistirildiginda",
+      "type": "procedure",
+      "sortid": 176,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "osswloccayabasss_komut_calistirildiginda",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToksitWood",
+      "type": "block",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "toksit_wood"
+    },
+    {
+      "name": "ToksitLog",
+      "type": "block",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "toksit_log"
+    },
+    {
+      "name": "ToksitPlanks",
+      "type": "block",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "toksit_planks"
+    },
+    {
+      "name": "ToksitLeaves",
+      "type": "block",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "toksit_leaves"
+    },
+    {
+      "name": "ToksitStairs",
+      "type": "block",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "toksit_stairs"
+    },
+    {
+      "name": "ToksitSlab",
+      "type": "block",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "toksit_slab"
+    },
+    {
+      "name": "ToksitFence",
+      "type": "block",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "toksit_fence"
+    },
+    {
+      "name": "ToksitFenceGate",
+      "type": "block",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "toksit_fence_gate"
+    },
+    {
+      "name": "ToksitItemsTag",
+      "type": "tag",
+      "sortid": 177,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "toksit_items_tag"
+    },
+    {
+      "name": "ToksitWoodRecipe",
+      "type": "recipe",
+      "sortid": 178,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "toksit_wood_recipe"
+    },
+    {
+      "name": "ToksitPlanksRecipe",
+      "type": "recipe",
+      "sortid": 179,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "toksit_planks_recipe"
+    },
+    {
+      "name": "ToksitStairsRecipe",
+      "type": "recipe",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "toksit_stairs_recipe"
+    },
+    {
+      "name": "ToksitSlabRecipe",
+      "type": "recipe",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "toksit_slab_recipe"
+    },
+    {
+      "name": "ToksitFenceRecipe",
+      "type": "recipe",
+      "sortid": 182,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "toksit_fence_recipe"
+    },
+    {
+      "name": "ToksitFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 183,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "toksit_fence_gate_recipe"
+    },
+    {
+      "name": "ToksitStickRecipe",
+      "type": "recipe",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "toksit_stick_recipe"
+    },
+    {
+      "name": "Toksit",
+      "type": "biome",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "toksit"
+    },
+    {
+      "name": "ToksitwUpdateTick",
+      "type": "procedure",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "toksitw_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Toksitw",
+      "type": "fluid",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "toksitw",
+      "metadata": {
+        "gb": true
+      }
+    },
+    {
+      "name": "Jetpack",
+      "type": "armor",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jetpack",
+      "metadata": {
+        "eh": false,
+        "el": false,
+        "eb": false,
+        "ec": true
+      }
+    },
+    {
+      "name": "UTusunaBastiginizda",
+      "type": "procedure",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "u_tusuna_bastiginizda",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "U",
+      "type": "keybind",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "u"
+    },
+    {
+      "name": "Demirolta",
+      "type": "tool",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demirolta"
+    },
+    {
+      "name": "Demiroltatraif",
+      "type": "recipe",
+      "sortid": 189,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demiroltatraif"
+    },
+    {
+      "name": "Elmasoltaaa",
+      "type": "tool",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "elmasoltaaa"
+    },
+    {
+      "name": "Elmqasolta",
+      "type": "recipe",
+      "sortid": 190,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "elmqasolta"
+    },
+    {
+      "name": "Olw",
+      "type": "achievement",
+      "sortid": 191,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "olw"
+    },
+    {
+      "name": "Motor",
+      "type": "item",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "motor"
+    },
+    {
+      "name": "Motortarif",
+      "type": "recipe",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "motortarif"
+    },
+    {
+      "name": "Jetpacktarif",
+      "type": "recipe",
+      "sortid": 193,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jetpacktarif"
+    },
+    {
+      "name": "Moterr",
+      "type": "achievement",
+      "sortid": 194,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "moterr"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "bloom",
+      "files": [
+        "bloom"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "jetpack",
+      "files": [
+        "jetpack_ses"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "jetpackses",
+      "files": [
+        "jetpack_sses"
+      ],
+      "category": "master",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.caya_madeni.cok_guc_pickaxe": "Güç Kazma",
+      "block.caya_madeni.toksit_stairs": "Toksit Merdiven",
+      "item.caya_madeni.jetpack_boots": "Jetpack Botlar",
+      "block.caya_madeni.kizartici": "Kýzartýcý",
+      "item.caya_madeni.oksitlenmis_guc_yemek": "Oksitlenmiþ Güç Yemek",
+      "item.caya_madeni.oksitlenmis_guczirh_boots": "Oksitlenmiþ Güç Bot",
+      "fluid.caya_madeni.oksitlenmis_gucsu": "Oksitlenmis Gucsu",
+      "item.caya_madeni.oksitlenmis_guckazma": "Oksitlenmiþ Güç Kazma",
+      "item.caya_madeni.denemekazma": "Hýz Kazma",
+      "advancements.oksitlenmissu.descr": "Bu Nasýl Bir Su?",
+      "advancements.zihrtr.title": "Oksitlenmiþ  Güç Gibi Saðlam",
+      "advancements.oksitlenmisguccevheriolurmu.title": "Oksitlenmiþ Güç Cevheri Olurmu?",
+      "item.caya_madeni.sirtcantasi": "Sýrt Çantasý",
+      "block.caya_madeni.laptop": "Bilgisayar",
+      "item.caya_madeni.jetpack_helmet": "Jetpack kask",
+      "item.caya_madeni.muzilk_helmet": "Kulaklýk",
+      "advancements.oksitlenmis_gucbloks.descr": "Oksitlenmiþ Güç Bloðu Elde et",
+      "block.caya_madeni.sahtecim": "Sahte Çim",
+      "item.caya_madeni.cok_guc_axe": "Güç Balta",
+      "block.caya_madeni.oksitlenmiskircraftg": "Oksitlenmiþ Güç Kýrýcý Masasý",
+      "block.caya_madeni.denemetnt": "Tntw",
+      "itemGroup.tabsilah": "Silah",
+      "block.caya_madeni.toksit_leaves": "Toksit Yaprak",
+      "item.caya_madeni.oksitlenmis_guc_kilic": "Oksitlenmiþ Güç Kýlýç",
+      "item.caya_madeni.cok_guc_hoe": "Güç Çapa",
+      "advancements.cipg.title": "Çip Yaptým!",
+      "item.caya_madeni.sandwich": "Sandwich",
+      "item.caya_madeni.muzilk_leggings": "Muzilk pantolon",
+      "entity.caya_madeni.boss": "CaYa Boss",
+      "advancements.guce.descr": "Bir Tane Güç Elde Et",
+      "item.caya_madeni.oksitlenmis_guczirh_leggings": "Oksitlenmiþ Güç Pantlon",
+      "advancements.oksitlenmis_gucikisirgelisim.title": "Oksitlenmiþ Gücün Gücü!",
+      "item.caya_madeni.demirolta": "Demir Olta",
+      "block.caya_madeni.hiza": "Hýz Cevheri",
+      "fluid.oksitlenmis_gucsu": "Oksitlenmiþ Güç Su Kovasý",
+      "item.caya_madeni.jetpack_chestplate": "Jetpack",
+      "subtitles.jetpack": "",
+      "item.caya_madeni.cok_guc_armor_chestplate": "Güç Göðüslük",
+      "block.caya_madeni.sahtetas": "Sahte Taþ",
+      "item.caya_madeni.cok_guc_armor_helmet": "Güç Kask",
+      "subtitles.jetpackses": "",
+      "item.caya_madeni.mermi": "Mermi",
+      "item.caya_madeni.boss_spawn_egg": "CaYa Boss Spawn Egg",
+      "item.caya_madeni.oksitlenmis_guczirh_helmet": "Oksitlenmiþ Güç Kask",
+      "block.caya_madeni.toksit_log": "Toksit Kütüðü",
+      "item.caya_madeni.cokguced": "Çok Güç",
+      "subtitles.bloom": "",
+      "item.caya_madeni.oksitlenmis_guccanavar_spawn_egg": "Oksitlenmiþ Güç Canavarý Spawn Egg",
+      "block.caya_madeni.gucblock": "Güç Blok",
+      "fluid.toksitw": "Toksitw",
+      "item.caya_madeni.jetpack_leggings": "Jetpack pantolon",
+      "item.caya_madeni.noktakayitedici": "Nokta Kayýt Edici",
+      "advancements.oksitlenmiskir.title": "Oksitlenmiþ Güç Kýrýcý Masasý",
+      "block.caya_madeni.toksit_fence": "Toksit Çit",
+      "block.caya_madeni.domatessed": "Domates Fidaný",
+      "biome.caya_madeni.toksit": "Toksit",
+      "block.caya_madeni.oksitlenmis_gucsu": "Oksitlenmis Gucsu",
+      "item.caya_madeni.oksitlenmis_guc": "Oksitlenmiþ Güç",
+      "advancements.kse.title": "Domates Buldum",
+      "item.caya_madeni.kizarmis_patates": "Kýzarmýþ Patates",
+      "advancements.zihrtr.descr": "Bir Tane Oksitlenmiþ  Güç Göðüslüðü Elde Et",
+      "item.caya_madeni.blockdestroye_23": "Oksitlenmiþ Güç Kýrýcý Malzemesi",
+      "advancements.cipg.descr": "Bir Tane Çip Elde Et",
+      "item.caya_madeni.suteaw": "Suteaw",
+      "entity.caya_madeni.oksitlenmis_guccanavar": "Oksitlenmiþ Güç Canavarý",
+      "item.caya_madeni.hiz": "Hýz",
+      "advancements.cipwsa.title": "Ýþte Bir Ýcat",
+      "item.caya_madeni.cok_guc_armor_boots": "Güç Bot",
+      "advancements.moterr.title": "Ýþte Bir Motor",
+      "key.caya_madeni.u": "U",
+      "subtitles.bolom": "",
+      "itemGroup.tabcayamodd": "Zýrh",
+      "item.caya_madeni.cok_guc_armor_leggings": "Güç Pantlon",
+      "advancements.guce.title": "Oksitlenmiþ Güçün Ýçinde Güç Madenimi Varmýþ?",
+      "item.caya_madeni.kiriciaw": "Oksitlenmiþ Güç Kýrýcý",
+      "item.caya_madeni.roket": "Roket",
+      "block.caya_madeni.sahteelmas": "Sahte Elmas",
+      "advancements.oksitlenmisguccevheriolurmu.descr": "Bir Tane Oksitlenmiþ Güç Cevheri yap",
+      "advancements.moterr.descr": "Bir Motor Bul",
+      "item.caya_madeni.cok_guc_sword": "Güç Kýlýç",
+      "block.caya_madeni.toksit_fence_gate": "Toksit Çit Kapý",
+      "advancements.oksitlenmissu.title": "Oksitlenmiþ Güç Su Al",
+      "block.caya_madeni.sahtekiriktas": "Sahte Kýrýk Taþ",
+      "block.caya_madeni.toksit_planks": "Toksit Tahta",
+      "item.caya_madeni.elmasoltaaa": "Elmas Olta",
+      "key.caya_madeni.muzikwsd": "Müzik",
+      "fluid.caya_madeni.toksitw": "Toksitw",
+      "advancements.oksitlenmis_gucbloks.title": "Oksitlenmiþ Güç Bloðumuuu?",
+      "item.caya_madeni.domates": "Domates",
+      "block.caya_madeni.olgunlasmadom": "Domates Olgun Deðil",
+      "block.caya_madeni.toksit_slab": "Toksit Basamak",
+      "advancements.cipwsa.descr": "Bir Çip Yap",
+      "item.caya_madeni.oksitlenmis_guczirh_chestplate": "Oksitlenmiþ Güç Göðüslük",
+      "advancements.olw.descr": "Bir Tane Olta Bulun",
+      "block.caya_madeni.oksitlenmis_guccehver": "Oksitlenmiþ Güç Cevheri",
+      "item.caya_madeni.cip": "Çip",
+      "advancements.oksitlenmis_gucoksitingucu.title": "Oksitin Gücü!",
+      "item.caya_madeni.muzilk_chestplate": "Muzilk göðüslük",
+      "biome.caya_madeni.oksitlenmis_gucbiom": "Oksitlenmiþ Güç Biyom",
+      "item.caya_madeni.cok_guc_shovel": "Güç Kürek",
+      "item.caya_madeni.cikolata": "Çikolata",
+      "block.caya_madeni.blockhiz": "Hýz Blok",
+      "subtitles.diamond": "",
+      "item.caya_madeni.motor": "Motor",
+      "block.caya_madeni.toksitw": "Toksitw",
+      "item.caya_madeni.guc": "Güç",
+      "block.caya_madeni.isinlayicis": "Iþýnlayýcý",
+      "item.caya_madeni.pakete": "Paket",
+      "advancements.oksitlenmisguccraft.title": "Oksitlenmiþ Güç Biyom",
+      "block.caya_madeni.toksit_wood": "Toksit Odunu",
+      "advancements.oksitlenmiskir.descr": "Bir Tane Oksitlenmiþ Güç Kýrýcý Masasý Elde Et",
+      "advancements.kse.descr": "Bir Tane Domates Elde Et",
+      "item.caya_madeni.peynir": "Peynir",
+      "item.caya_madeni.oksitlenmis_guc_yiyecek": "Oksitlenmiþ Güç Ýksiri",
+      "itemGroup.tabyiyicekurunu": "Yiyicekler",
+      "item.caya_madeni.muzilk_boots": "Muzilk Botlar",
+      "advancements.olw.title": "Olta Buldun!",
+      "itemGroup.tabca_ya_mod": "CaYa Mod",
+      "item.caya_madeni.oksitlenmis_gucdunyasi": "Oksitlenmiþ Güç  Portal Açýcý",
+      "advancements.oksitlenmisguccraft.descr": "Yok Artýk!",
+      "item.caya_madeni.oksitlenmis_gucsu_bucket": "Oksitlenmis Gucsu Bucket",
+      "advancements.oksitlenmis_gucikisirgelisim.descr": "Oksitlenmiþ Gücün Gücümü Olurmuþ?",
+      "block.caya_madeni.oksitlenmis_gucblok": "Oksitlenmiþ Güç Blok",
+      "advancements.oksitlenmis_gucoksitingucu.descr": "Bir Tane Oksitlenmiþ Güç Elde Et",
+      "item.caya_madeni.guccub": "Güç Çubuk",
+      "item.caya_madeni.sila_hw": "Silah",
+      "item.caya_madeni.toksitw_bucket": "Toksitw Bucket"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "caya_madeni",
+    "modName": "CaYa Madeni",
+    "version": "1.0.0",
+    "description": "Bu Mod Çok Amaçlý Bir Moddur.",
+    "author": "CaYa",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "cayatur",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "CaYa",
+    "modElementsPackage": "net.mcreator.cayamadeni",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "caya_madeni:blocks/toksit_planks",
+    "top": "caya_madeni:blocks/toksit_planks",
+    "side": "caya_madeni:blocks/toksit_planks"
+  }
+}

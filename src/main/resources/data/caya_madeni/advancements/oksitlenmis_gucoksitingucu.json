@@ -1,0 +1,55 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "caya_madeni:oksitlenmis_guc"
+    },
+    "title": {
+      "translate": "advancements.oksitlenmis_gucoksitingucu.title"
+    },
+    "description": {
+      "translate": "advancements.oksitlenmis_gucoksitingucu.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "oksitlenmis_gucoksitingucu": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "caya_madeni:oksitlenmis_guc",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 4,
+    "recipes": [
+      "caya_madeni:oksitlenmis_gukiliccraft",
+      "caya_madeni:oksitlenmis_gukazmacreaft",
+      "caya_madeni:oksitlenmisgucblock",
+      "caya_madeni:oksitlenmis_gublockcev",
+      "caya_madeni:sirtcanta",
+      "caya_madeni:oksitlenmiscevhercraft",
+      "caya_madeni:gogus",
+      "caya_madeni:bot",
+      "caya_madeni:pant",
+      "caya_madeni:kas",
+      "caya_madeni:oksitlenmis_gucyiye",
+      "caya_madeni:oksitlenmis_guc_kiekirici",
+      "caya_madeni:oksitlenmis_guccraftginkiryap",
+      "caya_madeni:blockdestroy_1",
+      "caya_madeni:cipcraft",
+      "caya_madeni:deleted_mod_element"
+    ]
+  }
+}

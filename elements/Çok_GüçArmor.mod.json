@@ -1,0 +1,65 @@
+{
+  "_fv": 24,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "guc3_head",
+    "enableBody": true,
+    "textureBody": "guc3_body",
+    "enableLeggings": true,
+    "textureLeggings": "gucee_leggings",
+    "enableBoots": true,
+    "textureBoots": "guc3_boots",
+    "onBodyTick": {
+      "name": "CokGucArmorGoguslukTakiliyken"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:Cayamodd"
+    },
+    "armorTextureFile": "guc3",
+    "helmetName": "Güç Kask",
+    "bodyName": "Güç Göðüslük",
+    "leggingsName": "Güç Pantlon",
+    "bootsName": "Güç Bot",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 1000,
+    "damageValueHelmet": 15,
+    "damageValueBody": 30,
+    "damageValueLeggings": 28,
+    "damageValueBoots": 15,
+    "enchantability": 9,
+    "toughness": 4.0,
+    "knockbackResistance": 1.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Guc"
+      }
+    ]
+  }
+}

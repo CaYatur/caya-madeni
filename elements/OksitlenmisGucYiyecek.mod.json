@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "iksir",
+    "customModelName": "Normal",
+    "name": "Oksitlenmiþ Güç Ýksiri",
+    "rarity": "COMMON",
+    "specialInfo": [
+      "Uyarý sadece aç olunca yenir!"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:CaYaMod"
+    },
+    "stackSize": 1,
+    "nutritionalValue": 4,
+    "saturation": 5.0,
+    "eatingSpeed": 32,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "drink",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "OksitlenmisGucIksirBuyuBasladiginda"
+    }
+  }
+}

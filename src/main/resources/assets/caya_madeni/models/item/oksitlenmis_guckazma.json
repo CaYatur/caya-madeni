@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "caya_madeni:items/oksitlenmis_guc_kazma"
+  }
+}

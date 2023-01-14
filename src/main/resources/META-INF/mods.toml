@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="caya_madeni"
+version="1.0.0"
+displayName="CaYa Madeni"
+credits="CaYa"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+authors="CaYa"
+description='''
+Bu Mod Çok Amaçlý Bir Moddur.
+'''
+
+[[dependencies.caya_madeni]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

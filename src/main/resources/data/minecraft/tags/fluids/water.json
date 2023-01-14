@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "caya_madeni:oksitlenmis_gucsu",
+    "caya_madeni:oksitlenmis_gucsu_flowing",
+    "caya_madeni:toksitw",
+    "caya_madeni:toksitw_flowing"
+  ]
+}

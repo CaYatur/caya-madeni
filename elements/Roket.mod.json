@@ -1,0 +1,43 @@
+{
+  "_fv": 24,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 0,
+    "texture": "roket",
+    "customModelName": "Normal",
+    "name": "Roket",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:SILAH"
+    },
+    "stackSize": 16,
+    "ammoItem": {
+      "value": "CUSTOM:Mermi"
+    },
+    "shootConstantly": true,
+    "usageCount": 2500,
+    "actionSound": {
+      "value": ""
+    },
+    "hasGlow": false,
+    "animation": "none",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "onRangedItemUsed": {
+      "name": "RoketMenzilliSilahKullanildigindat"
+    },
+    "bulletPower": 6.0,
+    "bulletDamage": 3.0,
+    "bulletKnockback": 5,
+    "bulletParticles": false,
+    "bulletIgnitesFire": true,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Mermi"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsBlock": {
+      "name": "RoketMermiBirBlogaCarpdiginda"
+    }
+  }
+}

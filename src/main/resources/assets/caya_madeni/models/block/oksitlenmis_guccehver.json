@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "caya_madeni:blocks/oksitlenmis_guc_madeni",
+    "up": "caya_madeni:blocks/oksitlenmis_guc_madeni",
+    "north": "caya_madeni:blocks/oksitlenmis_guc_madeni",
+    "east": "caya_madeni:blocks/oksitlenmis_guc_madeni",
+    "south": "caya_madeni:blocks/oksitlenmis_guc_madeni",
+    "west": "caya_madeni:blocks/oksitlenmis_guc_madeni",
+    "particle": "caya_madeni:blocks/oksitlenmis_guc_madeni"
+  }
+}

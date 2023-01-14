@@ -1,0 +1,24 @@
+{
+  "group": "caya_madeni",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "caya_madeni:guc"
+    },
+    "1": {
+      "item": "caya_madeni:guc"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "caya_madeni:cok_guc_sword",
+    "count": 1
+  }
+}

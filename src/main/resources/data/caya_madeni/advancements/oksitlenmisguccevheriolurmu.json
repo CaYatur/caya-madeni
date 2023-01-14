@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "caya_madeni:oksitlenmis_guccehver"
+    },
+    "title": {
+      "translate": "advancements.oksitlenmisguccevheriolurmu.title"
+    },
+    "description": {
+      "translate": "advancements.oksitlenmisguccevheriolurmu.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "oksitlenmisguccevheriolurmu": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "caya_madeni:oksitlenmis_guccehver",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "caya_madeni:oksitlenmis_gucoksitingucu"
+}

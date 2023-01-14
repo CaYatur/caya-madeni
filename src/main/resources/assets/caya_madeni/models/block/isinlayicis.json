@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "caya_madeni:blocks/isinlayici",
+    "up": "caya_madeni:blocks/isinlayici",
+    "north": "caya_madeni:blocks/isinlayici",
+    "east": "caya_madeni:blocks/isinlayici",
+    "south": "caya_madeni:blocks/isinlayici",
+    "west": "caya_madeni:blocks/isinlayici",
+    "particle": "caya_madeni:blocks/isinlayici"
+  }
+}

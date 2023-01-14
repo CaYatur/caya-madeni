@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "caya_madeni:block/oksitlenmis_gucdunyasi_portal_ew"
+    },
+    "axis=x": {
+      "model": "caya_madeni:block/oksitlenmis_gucdunyasi_portal_ns"
+    }
+  }
+}

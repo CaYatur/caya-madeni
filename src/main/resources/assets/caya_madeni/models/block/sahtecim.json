@@ -1,0 +1,10 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "caya_madeni:blocks/dirt",
+    "top": "caya_madeni:blocks/indir",
+    "side": "caya_madeni:blocks/grass_block_side",
+    "overlay": "caya_madeni:blocks/grass_block_side",
+    "particle": "caya_madeni:blocks/dirt"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "cok_guyc",
+    "customModelName": "Normal",
+    "name": "Çok Güç",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:CaYaMod"
+    },
+    "toolType": "MultiTool",
+    "harvestLevel": 6,
+    "efficiency": 20.0,
+    "attackSpeed": 15.0,
+    "enchantability": 6,
+    "damageVsEntity": 35.0,
+    "usageCount": 99999,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Guc"
+      },
+      {
+        "value": "CUSTOM:Cokguc"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedInAir": {
+      "name": "CokgucedHavayaSagTiklandiginda"
+    },
+    "onCrafted": {
+      "name": "CokgucEsyaUretildigindeeritildiginde"
+    }
+  }
+}

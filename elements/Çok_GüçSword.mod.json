@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "cok_guc_sword",
+    "customModelName": "Normal",
+    "name": "Güç Kýlýç",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:CaYaMod"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 2,
+    "efficiency": 6.0,
+    "attackSpeed": 5.0,
+    "enchantability": 14,
+    "damageVsEntity": 30.0,
+    "usageCount": 2000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Guc"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

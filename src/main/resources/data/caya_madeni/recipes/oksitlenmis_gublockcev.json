@@ -1,0 +1,13 @@
+{
+  "group": "caya_madeni",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "caya_madeni:oksitlenmis_gucblok"
+    }
+  ],
+  "result": {
+    "item": "caya_madeni:oksitlenmis_guc",
+    "count": 9
+  }
+}

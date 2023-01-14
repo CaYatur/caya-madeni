@@ -1,0 +1,42 @@
+{
+  "group": "caya_madeni",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "caya_madeni:gucblock"
+    },
+    "1": {
+      "item": "caya_madeni:guc"
+    },
+    "2": {
+      "item": "caya_madeni:gucblock"
+    },
+    "3": {
+      "item": "caya_madeni:guc"
+    },
+    "4": {
+      "item": "caya_madeni:guc"
+    },
+    "5": {
+      "item": "caya_madeni:guc"
+    },
+    "6": {
+      "item": "caya_madeni:gucblock"
+    },
+    "7": {
+      "item": "caya_madeni:guccub"
+    },
+    "8": {
+      "item": "caya_madeni:gucblock"
+    }
+  },
+  "result": {
+    "item": "caya_madeni:cokguced",
+    "count": 1
+  }
+}

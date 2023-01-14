@@ -1,0 +1,50 @@
+{
+  "display": {
+    "icon": {
+      "item": "caya_madeni:guc"
+    },
+    "title": {
+      "translate": "advancements.guce.title"
+    },
+    "description": {
+      "translate": "advancements.guce.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "guce": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "caya_madeni:guc",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1,
+    "recipes": [
+      "caya_madeni:gucblockyaap",
+      "caya_madeni:guccubukyaop",
+      "caya_madeni:cok_guc_armor_helmet_recipe",
+      "caya_madeni:cok_guc_armor_body_recipe",
+      "caya_madeni:cok_guc_armor_leggings_recipe",
+      "caya_madeni:cok_guc_armor_boots_recipe",
+      "caya_madeni:cok_guc_pickaxe_recipe",
+      "caya_madeni:cok_guc_axe_recipe",
+      "caya_madeni:cok_guc_sword_recipe",
+      "caya_madeni:cok_guc_shovel_recipe",
+      "caya_madeni:cok_guc_hoe_recipe"
+    ]
+  },
+  "parent": "caya_madeni:oksitlenmis_gucoksitingucu"
+}

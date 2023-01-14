@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "caya_madeni:block/kizartici"
+    },
+    "facing=east": {
+      "model": "caya_madeni:block/kizartici",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "caya_madeni:block/kizartici",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "caya_madeni:block/kizartici",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "caya_madeni:block/kizartici",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "caya_madeni:block/kizartici",
+      "x": 90
+    }
+  }
+}

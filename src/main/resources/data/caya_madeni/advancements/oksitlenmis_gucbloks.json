@@ -1,0 +1,41 @@
+{
+  "display": {
+    "icon": {
+      "item": "caya_madeni:oksitlenmis_gucblok"
+    },
+    "title": {
+      "translate": "advancements.oksitlenmis_gucbloks.title"
+    },
+    "description": {
+      "translate": "advancements.oksitlenmis_gucbloks.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "oksitlenmis_gucbloks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "caya_madeni:oksitlenmis_gucblok",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 2,
+    "recipes": [
+      "caya_madeni:oksitlenmis_gucportalacici",
+      "caya_madeni:oksitlenmisiksir"
+    ]
+  },
+  "parent": "caya_madeni:oksitlenmis_gucoksitingucu"
+}

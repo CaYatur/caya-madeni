@@ -1,0 +1,121 @@
+{
+  "_fv": 24,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "Çal",
+          "onClick": {
+            "name": "Cal1"
+          },
+          "width": 40,
+          "height": 20,
+          "name": "Çal",
+          "x": 240,
+          "y": 53
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Çal",
+          "width": 40,
+          "height": 20,
+          "name": "Çal",
+          "x": 240,
+          "y": 89
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Çal",
+          "width": 40,
+          "height": 20,
+          "name": "Çal",
+          "x": 240,
+          "y": 125
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Çal",
+          "width": 40,
+          "height": 20,
+          "name": "Çal",
+          "x": 240,
+          "y": 161
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Bloom",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Bloom",
+          "x": 141,
+          "y": 53
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Müzik Yok",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Müzik Yok",
+          "x": 141,
+          "y": 89
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Müzik Yok",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Müzik Yok",
+          "x": 141,
+          "y": 125
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Müzik Yok",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Müzik Yok",
+          "x": 141,
+          "y": 161
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

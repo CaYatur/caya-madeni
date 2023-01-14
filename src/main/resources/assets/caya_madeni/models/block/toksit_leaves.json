@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "caya_madeni:blocks/toksit_leaves",
+    "particle": "caya_madeni:blocks/toksit_leaves"
+  }
+}

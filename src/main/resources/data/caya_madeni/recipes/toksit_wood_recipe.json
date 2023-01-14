@@ -1,0 +1,26 @@
+{
+  "group": "caya_madeni",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "caya_madeni:toksit_log"
+    },
+    "1": {
+      "item": "caya_madeni:toksit_log"
+    },
+    "2": {
+      "item": "caya_madeni:toksit_log"
+    },
+    "3": {
+      "item": "caya_madeni:toksit_log"
+    }
+  },
+  "result": {
+    "item": "caya_madeni:toksit_wood",
+    "count": 3
+  }
+}

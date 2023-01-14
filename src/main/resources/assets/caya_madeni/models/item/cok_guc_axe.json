@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "caya_madeni:items/cok_guc_axe"
+  }
+}

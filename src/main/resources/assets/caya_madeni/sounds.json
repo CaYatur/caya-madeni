@@ -1,0 +1,29 @@
+{
+  "bloom": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "caya_madeni:bloom",
+        "stream": false
+      }
+    ]
+  },
+  "jetpack": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "caya_madeni:jetpack_ses",
+        "stream": false
+      }
+    ]
+  },
+  "jetpackses": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "caya_madeni:jetpack_sses",
+        "stream": false
+      }
+    ]
+  }
+}

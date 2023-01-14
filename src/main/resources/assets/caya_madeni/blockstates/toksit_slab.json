@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "caya_madeni:block/toksit_slab"
+    },
+    "type=top": {
+      "model": "caya_madeni:block/toksit_slab_top"
+    },
+    "type=double": {
+      "model": "caya_madeni:block/toksit_slab_full"
+    }
+  }
+}

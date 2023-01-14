@@ -1,0 +1,11 @@
+{
+  "_fv": 24,
+  "_type": "command",
+  "definition": {
+    "commandName": "locate_boss_temple",
+    "permissionLevel": "No requirement",
+    "onCommandExecuted": {
+      "name": "OsswloccayabasssKomutCalistirildiginda"
+    }
+  }
+}

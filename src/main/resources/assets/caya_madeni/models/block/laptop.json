@@ -1,0 +1,8 @@
+{
+  "parent": "caya_madeni:custom/bilgisayar_(5)",
+  "textures": {
+    "all": "caya_madeni:blocks/bilgisayar",
+    "particle": "caya_madeni:blocks/bilgisayar",
+    "0": "caya_madeni:blocks/bilgisayar"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "group": "caya_madeni",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "caya_madeni:oksitlenmis_guc"
+    },
+    "1": {
+      "item": "caya_madeni:oksitlenmis_guc"
+    },
+    "2": {
+      "item": "caya_madeni:oksitlenmis_guc"
+    },
+    "3": {
+      "item": "caya_madeni:oksitlenmis_guc"
+    },
+    "5": {
+      "item": "caya_madeni:oksitlenmis_guc"
+    },
+    "6": {
+      "item": "caya_madeni:oksitlenmis_guc"
+    },
+    "8": {
+      "item": "caya_madeni:oksitlenmis_guc"
+    }
+  },
+  "result": {
+    "item": "caya_madeni:oksitlenmis_guczirh_leggings",
+    "count": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "Bilgisayar",
+	"texture_size": [80, 80],
+	"textures": {
+		"0": "Bilgisayar (w2).pngw",
+		"particle": "Bilgisayar (w2).pngw"
+	},
+	"elements": [
+		{
+			"from": [2, 0, 4],
+			"to": [14, 0.5, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [2, 0, -1]},
+			"faces": {
+				"north": {"uv": [4, 5.5, 8, 5.75], "texture": "#0"},
+				"east": {"uv": [0, 6.5, 3.25, 6.75], "texture": "#0"},
+				"south": {"uv": [4, 5.75, 8, 6], "texture": "#0"},
+				"west": {"uv": [3.25, 6.5, 6.5, 6.75], "texture": "#0"},
+				"up": {"uv": [4, 3.25, 0, 0], "texture": "#0", "tintindex": 0},
+				"down": {"uv": [4, 3.25, 0, 6.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [2, -2, 4],
+			"to": [14, 7, 4.3],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [0, 0, -1]},
+			"faces": {
+				"north": {"uv": [4, 0, 8, 2.75], "texture": "#0"},
+				"east": {"uv": [6.5, 6.5, 6.75, 9.25], "texture": "#0"},
+				"south": {"uv": [4, 2.75, 8, 5.5], "texture": "#0"},
+				"west": {"uv": [0, 6.75, 0.25, 9.5], "texture": "#0"},
+				"up": {"uv": [8, 6.25, 4, 6], "texture": "#0"},
+				"down": {"uv": [8, 6.25, 4, 6.5], "texture": "#0"}
+			}
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "caya_madeni:oksitlenmis_guczirh_chestplate"
+    },
+    "title": {
+      "translate": "advancements.zihrtr.title"
+    },
+    "description": {
+      "translate": "advancements.zihrtr.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "zihrtr": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "caya_madeni:oksitlenmis_guczirh_chestplate",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "caya_madeni:oksitlenmis_gucoksitingucu"
+}
